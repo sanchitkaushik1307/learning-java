@@ -6,7 +6,7 @@ void display(){
 }
 public static void main(String []args){
     person p = new person();
-    p.name = "Sanchit";
     p.display();
+        p.name = "Sanchit";
 }
 }
