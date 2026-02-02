@@ -8,7 +8,7 @@ class parent {
 class child extends parent {
 
     void show() {
-        super.display();   // calling parent method
+        super.display();
         System.out.println("this is child method");
     }
 
